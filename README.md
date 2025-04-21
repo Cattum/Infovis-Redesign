@@ -59,7 +59,7 @@ This repository contains all relevant materials for the project, including the a
 
 - SaaS-Sales.csv for sales profit analysis (Discount vs Quantity vs Profit).
 - Climate Risk Index dataset from Kaggle for final visualization:  
-[Climate Risk Dataset - Kaggle](https://www.kaggle.com/datasets/thedevastator/global-climate-risk-index-and-related-economic-l](https://www.kaggle.com/datasets/thedevastator/global-climate-risk-index-and-related-economic-l?resource=download)
+[Climate Risk Dataset - Kaggle] https://www.kaggle.com/datasets/thedevastator/global-climate-risk-index-and-related-economic-l?resource=download
 
 ---
 
