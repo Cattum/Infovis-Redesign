@@ -98,6 +98,18 @@ This Information Visualization Redesign Project actively supports several United
 
 In addition, by adhering to the FAIR (Findable, Accessible, Interoperable, and Reusable) data principles, this project contributes to strengthening global knowledge infrastructures, supporting open science, transparency, and equitable information access.
 
+
+## Contribution to Sustainable Development Goals (SDGs)
+
+This project contributes to the following Sustainable Development Goals (SDGs):
+
+- **Goal 4: Quality Education** — By promoting data literacy through improved visualization design and critical analysis.
+- **Goal 9: Industry, Innovation, and Infrastructure** — By integrating hybrid tools (Amazon QuickSight and Python) to create more accessible and sustainable visualization practices.
+- **Goal 13: Climate Action** — By enhancing the communication of climate risks, supporting public awareness and informed decision-making.
+
+Relevant SDG icons are included to highlight the project's global impact.
+
+
 ---
 
 ## Dependencies
