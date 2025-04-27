@@ -83,9 +83,8 @@ This repository contains all relevant materials for the project, including the a
 This Information Visualization Redesign Project actively supports several United Nations Sustainable Development Goals (SDGs) by advancing data accessibility, promoting environmental awareness, and fostering innovative visualization practices grounded in critical theory and practical application.
 
 ### Relevant SDGs:
-- 
 
-- ![SDG Logo](https://vcg05.cfp.cn/creative/vcg/nowater800/new/VCG211548760828.jpg?x-oss-process=image/format,webp)
+![SDG Logo](https://vcg05.cfp.cn/creative/vcg/nowater800/new/VCG211548760828.jpg?x-oss-process=image/format,webp)
 
   **Goal 4: Quality Education**  
   Through critical engagement with visualization theory and practice, the project promotes higher standards of data literacy and empowers users to interact with complex environmental data more effectively.
