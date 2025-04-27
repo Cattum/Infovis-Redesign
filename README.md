@@ -99,16 +99,25 @@ This Information Visualization Redesign Project actively supports several United
 In addition, by adhering to the FAIR (Findable, Accessible, Interoperable, and Reusable) data principles, this project contributes to strengthening global knowledge infrastructures, supporting open science, transparency, and equitable information access.
 
 
-## Contribution to Sustainable Development Goals (SDGs)
+---
 
-This project contributes to the following Sustainable Development Goals (SDGs):
+## Future Research Direction on Digital Humanities
 
-- **Goal 4: Quality Education** — By promoting data literacy through improved visualization design and critical analysis.
-- **Goal 9: Industry, Innovation, and Infrastructure** — By integrating hybrid tools (Amazon QuickSight and Python) to create more accessible and sustainable visualization practices.
-- **Goal 13: Climate Action** — By enhancing the communication of climate risks, supporting public awareness and informed decision-making.
+Building on insights from the field trip to the Zhouzhuang Mystery of Life Museum, this project identifies several future research directions at the intersection of information visualization, digital humanities, and scientific storytelling.
 
-Relevant SDG icons are included to highlight the project's global impact.
+The museum’s exhibits, featuring real human, terrestrial, and marine biological specimens, highlighted the power of tangible artifacts in communicating complex biological and ecological knowledge. Inspired by this, future visualization projects can explore how digital platforms — including augmented reality (AR), virtual reality (VR), and interactive web environments — can replicate and enhance the educational impact of physical specimens.
 
+Potential research directions include:
+
+- **Digital Preservation and Visualization of Biological Specimens:** Creating high-fidelity 3D models of real-world specimens to expand access to rare biological resources and support global scientific literacy.
+
+- **Immersive Storytelling for Biodiversity Education:** Developing AR/VR experiences that allow users to interact with biological data and narratives, bridging gaps between scientific information, aesthetic engagement, and ethical considerations.
+
+- **Ethical Visualization in Digital Humanities:** Investigating best practices for digitally representing real biological entities, ensuring respect for life, scientific accuracy, and ethical storytelling in digital environments.
+
+Reflecting on the museum’s integration of aesthetics, scientific precision, and ethical presentation, future projects can aim to create interactive visualizations that not only convey information but also evoke emotional and ethical awareness — essential qualities for advancing digital humanities and sustainable education initiatives.
+
+A photograph from the field trip has been included in the deliverables to document the learning journey and inspire further exploration.
 
 ---
 
