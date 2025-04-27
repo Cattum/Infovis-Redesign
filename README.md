@@ -78,6 +78,28 @@ This repository contains all relevant materials for the project, including the a
 
 ---
 
+## Contribution to Sustainable Development Goals (SDGs)
+
+This Information Visualization Redesign Project actively supports several United Nations Sustainable Development Goals (SDGs) by advancing data accessibility, promoting environmental awareness, and fostering innovative visualization practices grounded in critical theory and practical application.
+
+### Relevant SDGs:
+
+- ![Goal 4](https://upload.wikimedia.org/wikipedia/commons/3/3d/Sustainable_Development_Goal_4.png)  
+  **Goal 4: Quality Education**  
+  Through critical engagement with visualization theory and practice, the project promotes higher standards of data literacy and empowers users to interact with complex environmental data more effectively.
+
+- ![Goal 9](https://upload.wikimedia.org/wikipedia/commons/3/3e/Sustainable_Development_Goal_9.png)  
+  **Goal 9: Industry, Innovation, and Infrastructure**  
+  By integrating hybrid visualization methods using Amazon QuickSight and Python, the project advances sustainable innovation and data infrastructure.
+
+- ![Goal 13](https://upload.wikimedia.org/wikipedia/commons/d/d9/Sustainable_Development_Goal_13.png)  
+  **Goal 13: Climate Action**  
+  The redesigned visualization improves climate risk communication, fostering public understanding and informed action toward climate change mitigation.
+
+In addition, by adhering to the FAIR (Findable, Accessible, Interoperable, and Reusable) data principles, this project contributes to strengthening global knowledge infrastructures, supporting open science, transparency, and equitable information access.
+
+---
+
 ## Dependencies
 
 - Python 3.x  
