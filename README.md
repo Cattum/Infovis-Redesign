@@ -20,6 +20,21 @@ The project was completed for the course INFOSCI 301 at Duke Kunshan University,
 
 ---
 
+## Acknowledgments
+
+I would like to sincerely thank all those who contributed to the development of this InfoVis Redesign Project:
+
+- **Prof. Luyao Zhang** — for her exceptional guidance, mentorship, and continuous support throughout the course, which have been fundamental to the success of this project.
+- **Dongping Liu** (Amazon) — for introducing Amazon QuickSight and providing valuable insights into real-world data visualization practices.
+- **David Schaaf** (Saarland University) — for introducing Reality Composer, expanding my understanding of augmented reality environments in visualization.
+- **Charles Chang** — for offering thoughtful feedback and suggestions that greatly enhanced the clarity and design of the project poster.
+- **Yuxin Zhang** and **Gbemisayo Adelaja** — for their collaborative discussions and constructive feedback, which helped refine many aspects of the project.
+- **Prof. Paula Ganga**, **Prof. Fan Liang**, **Prof. Kwang Leong Choy**, **Prof. Scott MacEachern**, and **Prof. Fang-fang Yin** — for their generous support, encouragement, and valuable advice during the development process.
+
+I am deeply grateful for the academic and professional community that made this project possible.
+
+---
+
 ## Repository Structure
 
 This repository contains all relevant materials for the project, including the article, source data, code, and visual outputs.
